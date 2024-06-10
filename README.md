@@ -11,7 +11,7 @@ Please create a seperate public repo in your personal account and share the link
 - `After`: Should have your work/code.
 
 ## Objective
-Refactor the existing app to improve readability, scalability, and maintainability
+Enhance and Refactor the existing app to improve readability, scalability, and maintainability
 
 ## Requirements
 **1. Navigation Setup: (use react native navigation)**
