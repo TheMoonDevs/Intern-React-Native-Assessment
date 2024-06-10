@@ -1,9 +1,14 @@
 # Intern-React-Native-Assessment
 
+# INSTRUCTIONS:
 **[IMPORTANT]:** _**PLEASE USE TYPESCRIPT**_
 
 **Completion Time:** 4 Hrs
 
+Create a seperate public repo in your personal account and share the link
+
+- `Before`: Has existing code.
+- `After`: Should have your work/code.
 
 ## Objective
 Refactor the existing app to improve readability, scalability, and maintainability
