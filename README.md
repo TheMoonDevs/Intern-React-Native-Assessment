@@ -5,7 +5,7 @@
 
 **Completion Time:** 4 Hrs
 
-Create a seperate public repo in your personal account and share the link
+Please create a seperate public repo in your personal account and share the link
 
 - `Before`: Has existing code.
 - `After`: Should have your work/code.
