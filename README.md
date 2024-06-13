@@ -1,7 +1,7 @@
 # Intern-React-Native-Assessment
 
 # INSTRUCTIONS:
-**[IMPORTANT]:** _**PLEASE USE TYPESCRIPT.  After you are done, please write a brief overview on folder structure (code walkthrough) and mention the bonus task you have picked (if any)**_
+**[IMPORTANT]:** _**PLEASE USE TYPESCRIPT.  After you are done, please write a brief overview on folder structure (code walkthrough) and mention the bonus task you have picked (if any) in readme.md**_
 
 **Completion Time:** 4 Hrs
 
