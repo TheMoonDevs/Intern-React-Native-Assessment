@@ -3,6 +3,8 @@
 # INSTRUCTIONS:
 **[IMPORTANT]:** _**PLEASE USE TYPESCRIPT.  After you are done, please write a brief overview on folder structure (code walkthrough) and mention the bonus task you have picked (if any) in readme.md**_
 
+**PLEASE USE EXPO**
+
 **Completion Time:** 4 Hrs
 
 Please create a seperate public repo in your personal account and share the link
